@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="coches.xsl"?>
+<coches xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="coches.xsd">
+	<coche id="1">
+		<marca>Ford</marca>
+		<modelo>Fiesta</modelo>
+		<combustible>Gasolina</combustible>
+		<color>Azul</color>
+		<num_puertas>5</num_puertas>
+		<matricula>0754GHE</matricula>
+		<propietario>
+			<dni>47336547A</dni>
+			<nombre>Pablo</nombre>
+			<apellidos>Rodriguez</apellidos>		
+		</propietario>
+		<accesorio>
+			<nombre>Radio</nombre>
+			<tipo>USB</tipo>
+		</accesorio>
+		<accesorio>
+			<nombre>Climatizador</nombre>
+			<modelo>3457T</modelo>
+		</accesorio>
+				
+	</coche>
+	<coche id="2">
+		<marca>Hyundai</marca>
+		<modelo>Tucson</modelo>
+		<combustible>Diesel</combustible>
+		<color>Blanco</color>
+		<num_puertas>5</num_puertas>
+		<matricula>0401ASD</matricula>
+		<propietario>
+			<dni>34778541E</dni>
+			<nombre>Maria</nombre>
+			<apellidos>Garcia</apellidos>		
+		</propietario>
+		<accesorio>
+			<nombre>Radio</nombre>
+			<tipo>DVD</tipo>
+		</accesorio>
+		<accesorio>
+			<nombre>Bluetooth</nombre>
+		</accesorio>
+				
+	</coche>
+	<coche id="3">
+		<marca>Seat</marca>
+		<modelo>Leon</modelo>
+		<combustible>Diesel</combustible>
+		<color>Blanco</color>
+		<num_puertas>3</num_puertas>
+		<accesorio>
+			<nombre>Bluetooth</nombre>
+		</accesorio>
+		<accesorio>
+			<nombre>Radio</nombre>
+			<modelo>USB</modelo>
+		</accesorio>
+				
+	</coche>
+	<coche id="4">
+		<marca>Peugeot</marca>
+		<modelo>208</modelo>
+		<combustible>Diesel</combustible>
+		<color>Gris</color>
+		<num_puertas>3</num_puertas>
+		<accesorio>
+			<nombre>Bluetooth</nombre>
+		</accesorio>
+		<accesorio>
+			<nombre>Ventana Techo</nombre>
+		</accesorio>
+				
+	</coche>
+	<coche id="5">
+		<marca>Renault</marca>
+		<modelo>Clio</modelo>
+		<combustible>Gasolina</combustible>
+		<color>Rojo</color>
+		<num_puertas>5</num_puertas>
+		<matricula>0252JDW</matricula>
+		<propietario>
+			<dni>34800574O</dni>
+			<nombre>David</nombre>
+			<apellidos>Gomez</apellidos>		
+		</propietario>
+		<accesorio>
+			<nombre>Radio</nombre>
+			<tipo>USB</tipo>
+		</accesorio>
+		<accesorio>
+			<nombre>Climatizador</nombre>
+			<modelo>2748B</modelo>
+		</accesorio>
+		<accesorio>
+			<nombre>Bluetooth</nombre>
+		</accesorio>
+				
+	</coche>
+	<coche id="6">
+		<marca>Hyundai</marca>
+		<modelo>Kona</modelo>
+		<combustible>Gasolina</combustible>
+		<color>Lima</color>
+		<num_puertas>3</num_puertas>
+		<accesorio>
+			<nombre>Radio</nombre>
+		</accesorio>
+		<accesorio>
+			<nombre>Bluetooth</nombre>
+		</accesorio>
+		<accesorio>
+			<nombre>Camara Trasera</nombre>
+		</accesorio>
+				
+	</coche>
+	<coche id="7">
+		<marca>BMW</marca>
+		<modelo>325d Berlina</modelo>
+		<combustible>Diesel</combustible>
+		<color>Verde</color>
+		<num_puertas>5</num_puertas>
+				
+	</coche>
+	<coche id="8">
+		<marca></marca>
+		<modelo>Fiesta</modelo>
+		<combustible>Gasolina</combustible>
+		<color>Blanco</color>
+		<num_puertas>5</num_puertas>
+		<matricula></matricula>
+		<propietario>
+			<dni>25644835D</dni>
+			<nombre>Natalia</nombre>
+			<apellidos>Perez</apellidos>		
+		</propietario>		
+	</coche>
+	<coche id="9">
+		<marca>Mercedes</marca>
+		<modelo>Clase C</modelo>
+		<combustible>Diesel</combustible>
+		<color>Azul</color>
+		<num_puertas>5</num_puertas>
+				
+	</coche>
+	<coche id="10">
+		<marca>Volvo</marca>
+		<modelo>xc60</modelo>
+		<combustible>Gasolina</combustible>
+		<color>Gris</color>
+		<num_puertas>5</num_puertas>
+		<matricula>7568LCD</matricula>
+		<propietario>
+			<dni>29700458Q</dni>
+			<nombre>Isabel</nombre>
+			<apellidos>Prieto</apellidos>		
+		</propietario>
+		<accesorio>
+			<nombre>Radio</nombre>
+			<tipo>USB</tipo>
+		</accesorio>
+		<accesorio>
+			<nombre>Climatizador</nombre>
+			<modelo>5454D</modelo>
+		</accesorio>
+		<accesorio>
+			<nombre>Bluetooth</nombre>
+		</accesorio>
+</coches>
