@@ -1,5 +1,5 @@
 # Coches-XML
-# A partir del fichero XML coches.xml obtener la siguiente información:
+## A partir del fichero XML coches.xml obtener la siguiente información:
 
   * Listar información: Listar nombre y modelo de todos los coches.
   * Contar información: Contar cuantos coches se han vendido y listar esos coches vendidos. 
