@@ -25,5 +25,4 @@ def contar_coches_vendidos(doc):
 #Funcion: Buscar o filtrar información: Pedir por teclado una matricula y mostrar información del coche.
 
 def info_coche(doc,buscar_matricula):
-  buscar_matricula = input("Matricula del coche que deseas buscar: ")
   
