@@ -51,6 +51,7 @@
 		<combustible>Diesel</combustible>
 		<color>Blanco</color>
 		<num_puertas>3</num_puertas>
+		<matricula>0401JDW</matricula>
 		<accesorio>
 			<nombre>Bluetooth</nombre>
 		</accesorio>
@@ -66,6 +67,7 @@
 		<combustible>Diesel</combustible>
 		<color>Gris</color>
 		<num_puertas>3</num_puertas>
+		<matricula></matricula>
 		<accesorio>
 			<nombre>Bluetooth</nombre>
 		</accesorio>
@@ -105,6 +107,7 @@
 		<combustible>Gasolina</combustible>
 		<color>Lima</color>
 		<num_puertas>3</num_puertas>
+		<matricula></matricula>
 		<accesorio>
 			<nombre>Radio</nombre>
 		</accesorio>
@@ -122,6 +125,7 @@
 		<combustible>Diesel</combustible>
 		<color>Verde</color>
 		<num_puertas>5</num_puertas>
+		<matricula></matricula>
 				
 	</coche>
 	<coche id="8">
@@ -143,6 +147,7 @@
 		<combustible>Diesel</combustible>
 		<color>Azul</color>
 		<num_puertas>5</num_puertas>
+		<matricula></matricula>
 				
 	</coche>
 	<coche id="10">
@@ -168,4 +173,5 @@
 		<accesorio>
 			<nombre>Bluetooth</nombre>
 		</accesorio>
+	</coche>
 </coches>
