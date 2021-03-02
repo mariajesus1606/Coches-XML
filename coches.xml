@@ -9,6 +9,7 @@
 		<color>Azul</color>
 		<num_puertas>5</num_puertas>
 		<matricula>0754GHE</matricula>
+		<vendido>True</vendido>
 		<propietario>
 			<dni>47336547A</dni>
 			<nombre>Pablo</nombre>
@@ -31,6 +32,7 @@
 		<color>Blanco</color>
 		<num_puertas>5</num_puertas>
 		<matricula>0401ASD</matricula>
+		<vendido>True</vendido>
 		<propietario>
 			<dni>34778541E</dni>
 			<nombre>Maria</nombre>
@@ -52,6 +54,7 @@
 		<color>Blanco</color>
 		<num_puertas>3</num_puertas>
 		<matricula>0401JDW</matricula>
+		<vendido>False</vendido>
 		<accesorio>
 			<nombre>Bluetooth</nombre>
 		</accesorio>
@@ -68,6 +71,7 @@
 		<color>Gris</color>
 		<num_puertas>3</num_puertas>
 		<matricula></matricula>
+		<vendido>False</vendido>
 		<accesorio>
 			<nombre>Bluetooth</nombre>
 		</accesorio>
@@ -83,6 +87,7 @@
 		<color>Rojo</color>
 		<num_puertas>5</num_puertas>
 		<matricula>0252JDW</matricula>
+		<vendido>True</vendido>
 		<propietario>
 			<dni>34800574O</dni>
 			<nombre>David</nombre>
@@ -108,6 +113,7 @@
 		<color>Lima</color>
 		<num_puertas>3</num_puertas>
 		<matricula></matricula>
+		<vendido>False</vendido>
 		<accesorio>
 			<nombre>Radio</nombre>
 		</accesorio>
@@ -126,6 +132,7 @@
 		<color>Verde</color>
 		<num_puertas>5</num_puertas>
 		<matricula></matricula>
+		<vendido>False</vendido>
 				
 	</coche>
 	<coche id="8">
@@ -135,6 +142,7 @@
 		<color>Blanco</color>
 		<num_puertas>5</num_puertas>
 		<matricula></matricula>
+		<vendido>True</vendido>
 		<propietario>
 			<dni>25644835D</dni>
 			<nombre>Natalia</nombre>
@@ -148,6 +156,7 @@
 		<color>Azul</color>
 		<num_puertas>5</num_puertas>
 		<matricula></matricula>
+		<vendido>False</vendido>
 				
 	</coche>
 	<coche id="10">
@@ -157,6 +166,7 @@
 		<color>Gris</color>
 		<num_puertas>5</num_puertas>
 		<matricula>7568LCD</matricula>
+		<vendido>True</vendido>
 		<propietario>
 			<dni>29700458Q</dni>
 			<nombre>Isabel</nombre>
