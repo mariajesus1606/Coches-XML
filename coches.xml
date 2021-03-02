@@ -129,7 +129,7 @@
 				
 	</coche>
 	<coche id="8">
-		<marca></marca>
+		<marca>Ford</marca>
 		<modelo>Fiesta</modelo>
 		<combustible>Gasolina</combustible>
 		<color>Blanco</color>
