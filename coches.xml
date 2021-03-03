@@ -94,10 +94,6 @@
 			<apellidos>Gomez</apellidos>		
 		</propietario>
 		<accesorio>
-			<nombre>Radio</nombre>
-			<tipo>USB</tipo>
-		</accesorio>
-		<accesorio>
 			<nombre>Climatizador</nombre>
 			<modelo>2748B</modelo>
 		</accesorio>
