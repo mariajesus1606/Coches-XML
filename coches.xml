@@ -60,7 +60,7 @@
 		</accesorio>
 		<accesorio>
 			<nombre>Radio</nombre>
-			<modelo>USB</modelo>
+			<tipo>USB</tipo>
 		</accesorio>
 				
 	</coche>
@@ -93,6 +93,10 @@
 			<nombre>David</nombre>
 			<apellidos>Gomez</apellidos>		
 		</propietario>
+		<accesorio>
+			<nombre>Radio</nombre>
+			<tipo>USB</tipo>
+		</accesorio>
 		<accesorio>
 			<nombre>Climatizador</nombre>
 			<modelo>2748B</modelo>
