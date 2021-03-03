@@ -21,7 +21,6 @@
 		</accesorio>
 		<accesorio>
 			<nombre>Climatizador</nombre>
-			<modelo>3457T</modelo>
 		</accesorio>
 				
 	</coche>
@@ -99,7 +98,6 @@
 		</accesorio>
 		<accesorio>
 			<nombre>Climatizador</nombre>
-			<modelo>2748B</modelo>
 		</accesorio>
 		<accesorio>
 			<nombre>Bluetooth</nombre>
@@ -141,7 +139,7 @@
 		<combustible>Gasolina</combustible>
 		<color>Blanco</color>
 		<num_puertas>5</num_puertas>
-		<matricula></matricula>
+		<matricula>4580DMX</matricula>
 		<vendido>True</vendido>
 		<propietario>
 			<dni>25644835D</dni>
@@ -178,7 +176,6 @@
 		</accesorio>
 		<accesorio>
 			<nombre>Climatizador</nombre>
-			<modelo>5454D</modelo>
 		</accesorio>
 		<accesorio>
 			<nombre>Bluetooth</nombre>
