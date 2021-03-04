@@ -35,8 +35,8 @@ while opcion != 6:
         #    print(coches)
         print("LISTA COCHES VENDIDOS: ")
         print("-----------------------")
-        for marca,modelo,matricula in listar_coches_vendidos(doc):
-            print(marca,"-",modelo,"-",matricula)
+        for marca,modelo,matricula in zip(listar_coches_vendidos(doc)[0],listar_coches_vendidos(doc)[1],listar_coches_vendidos(doc)[2]):
+            print(marca," ",modelo," ",matricula)
     #Buscar o filtrar información: Pedir por teclado una matricula y mostrar información del coche.
     elif opcion == 3:
         #Mostrar todas las matriculas:
